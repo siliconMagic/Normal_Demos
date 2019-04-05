@@ -5,6 +5,12 @@ add some new code for git commit
 
 #include <stdio.h>
 
+int get_product(int a, int b){
+	assert a!=0 && b!=0;
+	return a*b;
+}
+
+
 int main(){
 	int a = 1;
 	int b = 2;
