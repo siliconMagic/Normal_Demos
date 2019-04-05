@@ -3,3 +3,10 @@ print("hello world git bash")
 
 add some new code for git commit
 
+#include <stdio.h>
+
+int main(){
+	int a = 1;
+	int b = 2;
+	return a+b;
+}
