@@ -12,7 +12,7 @@ int function_1(int *ptr_1, char *ptr_2){
 
 int main(){
 	int a = 3;
-	char b = 'B';
+	char b = 'B'; //add some comments
 	function_1(&a, &b);
 	return 0;
 }
