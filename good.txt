@@ -1,4 +1,4 @@
-
+这是在git_test_2中修改的内容
 print("hello world git bash")
 
 add some new code for git commit
