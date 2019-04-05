@@ -13,6 +13,7 @@ int function_1(int *ptr_1, char *ptr_2){
 int main(){
 	int a = 3;
 	char b = 'B'; //add some comments
+	std::cout<<"edit in master"<<std::endl;
 	function_1(&a, &b);
 	return 0;
 }
